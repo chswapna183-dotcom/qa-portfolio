@@ -1,19 +1,8 @@
----
-layout: default
-title: "QA Portfolio"
----
 
-# YOUR NAME — QA Engineer (Manual • API • Automation)
+#        Swapna Chada — 
+QA Engineer (Manual • API • Automation)
 
-<!-- TODO: Replace "YOUR NAME" and the title line above with your preferred headline. -->
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE/)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-<!-- TODO: Update the links above (LinkedIn, GitHub, Email). -->
-
-Quality-focused QA Engineer with **X+ years** of experience validating **web apps and APIs**, building **clear test documentation**, and partnering with cross-functional teams to ship reliable releases.
+Quality-focused QA Engineer with 6+ years of experience validating **web apps and APIs**, building **clear test documentation**, and partnering with cross-functional teams to ship reliable releases.
 
 <!-- TODO: Replace "X+ years" and tailor the summary to your target roles/domain. -->
 
@@ -31,7 +20,7 @@ Quality-focused QA Engineer with **X+ years** of experience validating **web app
 
 ---
 
-## 🔍 Manual QA Highlights
+## 🔍 QA Highlights
 
 <!-- TODO: Adjust the numbers/claims to match your experience and outcomes. -->
 
@@ -50,51 +39,45 @@ Quality-focused QA Engineer with **X+ years** of experience validating **web app
 
 <!-- TODO: Replace the project placeholders with your real repositories and artifacts. -->
 
-### ✅ Project 1: WEB APP — Manual Test Suite & Regression Pack
+### ✅ Project 1: SeleniumFramework
 
 - **Description:** End-to-end manual QA coverage for a sample web application, including test documentation, execution evidence, and defect reporting examples.
-- **Tech Stack:** Jira (or equivalent), Chrome DevTools, TestRail/Zephyr (optional), Postman (for API checks), SQL (basic validation)
+
 - **Key Highlights:**
-  - Created a structured **test plan**, **test scenarios**, and prioritized **regression suite**
-  - Applied test design techniques (BVA, equivalence partitioning, negative testing)
-  - Produced sample **bug reports** with clear repro steps and expected vs. actual behavior
-  - Maintained a lightweight **test summary** for release readiness decisions
-- **GitHub:** https://github.com/YOUR_GITHUB_USERNAME/YOUR_WEBAPP_QA_REPO
+  - Built using Selenium WebDriver, Java, and TestNG
+  - Implements Page Object Model (POM) for clean and maintainable code
+  - Includes reusable utilities for browser actions, waits, logging, and configuration
+  - Supports data‑driven testing using external test data
+  - Structured for CI/CD integration (Jenkins/GitHub Actions ready)
+- **GitHub:** https://github.com/chswapna183-dotcom/SeleniumFramework
 
 <!-- TODO: Update the GitHub link and rename this project to match your work. -->
 
-### ✅ Project 2: REST API — Postman Regression Collection & Reporting
+### ✅ Project 2: Endpoint_UIAutomationCore
 
-- **Description:** API test collection covering critical endpoints with environments, variables, and repeatable regression runs.
-- **Tech Stack:** Postman, Newman (optional), Swagger/OpenAPI, JSON Schema (optional), GitHub Actions (optional)
+- **Description:** Endpoint_UIAutomationCore is a UI automation framework built to test web application endpoints with a structured, scalable, and reusable architecture. It focuses on validating UI flows, verifying endpoint responses through UI interactions, and ensuring application stability across different modules. The framework is designed for maintainability and supports modular test development, configuration management, and clean reporting.
+- 
 - **Key Highlights:**
-  - Validated response codes, payload structure, and business rules using assertions
-  - Organized requests into folders by feature with reusable pre-request scripts
-  - Used environment files for easy switching between dev/stage/prod-like setups
-  - Added sample run outputs (reports/logs) for shareable results
-- **GitHub:** https://github.com/YOUR_GITHUB_USERNAME/YOUR_API_TESTS_REPO
+  - Built using Selenium WebDriver with a clean, modular structure
+  - Supports endpoint validation through UI workflows
+  - Includes centralized configuration management for environments and test data
+  - Provides reusable utilities for browser actions, waits, logging, and assertions
+  - Generates structured test execution reports
+  - Designed for easy extension and integration with CI/CD pipelines
+- **GitHub:** https://github.com/chswapna183-dotcom/Endpoint_UIAutomationCore
 
-### ✅ Project 3: MOBILE APP — Smoke Checklist & Device Coverage Matrix
+### ✅ Project 3: playwright-end2end-framework
 
-- **Description:** Mobile-focused QA artifacts for release validation, emphasizing fast feedback and consistent smoke coverage.
-- **Tech Stack:** Android Studio Emulator / iOS Simulator, BrowserStack (optional), Jira, Charles Proxy (optional)
+- **Description:** This project is an end‑to‑end UI automation framework built using Playwright. It is designed to deliver fast, reliable, and maintainable automated tests for modern web applications. The framework supports cross‑browser testing, modular test design, reusable components, and clean reporting. It enables efficient validation of user flows, UI behavior, and application stability across different environments.
+
 - **Key Highlights:**
-  - Defined a concise **smoke checklist** for critical user journeys
-  - Built a **device/OS matrix** to plan coverage within time constraints
-  - Documented test data needs and quick troubleshooting steps for common failures
-  - Captured and organized evidence (screenshots/videos) for stakeholders
-- **GitHub:** https://github.com/YOUR_GITHUB_USERNAME/YOUR_MOBILE_QA_REPO
-
-### ✅ Project 4: UI AUTOMATION (Starter) — Smoke Suite for Critical Flows
-
-- **Description:** Lightweight UI smoke automation demonstrating stable selectors, clear assertions, and maintainable structure.
-- **Tech Stack:** Playwright/Cypress/Selenium (choose one), JavaScript/TypeScript/Java (choose one), GitHub Actions (optional)
-- **Key Highlights:**
-  - Automated high-value tests (login, core navigation, critical CRUD flow)
-  - Implemented reliable waits and meaningful assertions to reduce flaky runs
-  - Added reusable helpers/page objects to keep tests readable
-  - Included CI sample workflow to run tests on pull requests
-- **GitHub:** https://github.com/YOUR_GITHUB_USERNAME/YOUR_UI_AUTOMATION_REPO
+  - Built using Playwright with support for Chromium, Firefox, and WebKit
+  - Implements a modular and scalable test structure for easy maintenance
+  - Includes page object patterns for clean and reusable test logic
+  - Provides rich HTML reports and detailed test logs
+  - Fast execution with parallel testing capabilities
+  - Easily extendable and suitable for CI/CD integration
+- **GitHub:** https://github.com/chswapna183-dotcom/playwright-end2end-framework
 
 ---
 
@@ -131,9 +114,8 @@ Quality-focused QA Engineer with **X+ years** of experience validating **web app
 
 <!-- TODO: Replace placeholders with your real links and preferred contact methods. -->
 
-- **Resume:** https://drive.google.com/file/d/YOUR_RESUME_ID/view (or `./resume.pdf`)
-- **LinkedIn:** https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE/
-- **GitHub:** https://github.com/YOUR_GITHUB_USERNAME
-- **Email:** your.email@example.com
+- **LinkedIn:** https://www.linkedin.com/in/swapna-chada/
+- **GitHub:** https://github.com/chswapna183-dotcom/
+- **Email:** chswapna183@gmail.com
 
-If you're hiring for QA roles, I'm happy to share more details about my testing approach, documentation samples, and project outcomes.
+Happy to share a role-specific CV on request.
