@@ -1,5 +1,5 @@
 
-#        Swapna Chada — 
+#        Swapna Chada 
 QA Engineer (Manual • API • Automation)
 
 Quality-focused QA Engineer with 6+ years of experience validating **web apps and APIs**, building **clear test documentation**, and partnering with cross-functional teams to ship reliable releases.
@@ -56,7 +56,7 @@ Quality-focused QA Engineer with 6+ years of experience validating **web apps an
 ### ✅ Project 2: Endpoint_UIAutomationCore
 
 - **Description:** Endpoint_UIAutomationCore is a UI automation framework built to test web application endpoints with a structured, scalable, and reusable architecture. It focuses on validating UI flows, verifying endpoint responses through UI interactions, and ensuring application stability across different modules. The framework is designed for maintainability and supports modular test development, configuration management, and clean reporting.
-- 
+ 
 - **Key Highlights:**
   - Built using Selenium WebDriver with a clean, modular structure
   - Supports endpoint validation through UI workflows
