@@ -2,7 +2,7 @@
 #        Swapna Chada 
 QA Engineer (Manual • API • Automation)
 
-Quality-focused QA Engineer with 6+ years of experience validating **web apps and APIs**, building **clear test documentation**, and partnering with cross-functional teams to ship reliable releases.
+Results-driven QA Engineer with 6+ years specializing in test automation, API validation, and CI/CD integration across web and mobile platforms, delivering scalable test frameworks and mentoring high-performing teams to ensure reliable, quality-driven releases
 
 <!-- TODO: Replace "X+ years" and tailor the summary to your target roles/domain. -->
 
@@ -105,10 +105,10 @@ Quality-focused QA Engineer with 6+ years of experience validating **web apps an
 <!-- TODO: Replace these with your real certifications/badges and update names as needed. -->
 
 ![ISTQB](https://img.shields.io/badge/ISTQB-CTFL-2E7D32?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-Student%20Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-Fundamentals-009688?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-Foundations-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Automation](https://img.shields.io/badge/Test%20Automation-Basics-1565C0?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-Expert-009688?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-Expert-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Automation](https://img.shields.io/badge/Test%20Automation-Expert-1565C0?style=for-the-badge)
 
 ---
 
