@@ -34,3 +34,20 @@
 .site-footer {
   display: none !important;
 }
+/* Custom footer banner */
+.footer-banner {
+  background-color: #2d2d2d;
+  color: #ffffff;
+  text-align: center;
+  padding: 2rem 1rem;
+  margin-top: 4rem;
+  margin-left: -2rem;
+  margin-right: -2rem;
+  margin-bottom: -2rem;
+}
+
+.footer-banner p {
+  margin: 0.3rem 0;
+  font-size: 0.9rem;
+  opacity: 0.9;
+}

@@ -124,7 +124,8 @@ Results-driven QA Engineer with 6+ years specializing in test automation, API va
 Happy to share a role-specific CV on request.
 
 ---
-## 📌 Copyright
 
-© 2026 Swapna Chada. All rights reserved.  
-This portfolio is my original work. Please do not copy or reuse without permission.
+<div class="footer-banner">
+  <p>© 2026 Swapna Chada. All rights reserved.</p>
+  <p>This portfolio is my original work. Please do not copy or reuse without permission.</p>
+</div>
