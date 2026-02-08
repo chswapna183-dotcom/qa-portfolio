@@ -53,7 +53,8 @@ Results-driven QA Engineer with 6+ years specializing in test automation, API va
   - Data-Driven Testing: Externalized test data support for scalable and flexible test execution
   - Logging & Reporting: Comprehensive test execution logs and detailed reporting mechanisms
   - CI/CD Integration: Jenkins and GitHub Actions ready for automated pipeline execution
-  -**GitHub:** [View Repository](https://github.com/chswapna183-dotcom/SeleniumFramework)
+ 
+  - -**GitHub:** [View Repository](https://github.com/chswapna183-dotcom/SeleniumFramework)
 
 
 ### ✅ Project 2: Endpoint_UIAutomationCore
@@ -67,7 +68,8 @@ Results-driven QA Engineer with 6+ years specializing in test automation, API va
   - Reusable Utility Library: Custom components for browser interactions, intelligent waits, logging, and assertion handling
   - Detailed Reporting: Structured test execution reports with pass/fail metrics and failure analysis
   - CI/CD Ready: Designed for seamless extension and integration with Jenkins, GitHub Actions, and other pipeline tools
-   -**GitHub:** [View Repository](https://github.com/chswapna183-dotcom/Endpoint_UIAutomationCore)
+  
+  - **GitHub:** [View Repository](https://github.com/chswapna183-dotcom/Endpoint_UIAutomationCore)
 
 ### ✅ Project 3: playwright-end2end-framework
 
@@ -80,7 +82,8 @@ Results-driven QA Engineer with 6+ years specializing in test automation, API va
   - High-Performance Execution: Parallel test execution capabilities delivering faster feedback and optimized test suite runtime
   - Developer-Friendly Design: Intuitive framework structure with clean test logic for easy extensibility and collaboration
   - CI/CD Ready: Seamlessly integrates with Jenkins, GitHub Actions, GitLab CI, and other modern deployment pipelines
-   -**GitHub:** [View Repository](https://github.com/chswapna183-dotcom/playwright-end2end-framework)
+   
+  - **GitHub:** [View Repository](https://github.com/chswapna183-dotcom/playwright-end2end-framework)
 
 ---
 
