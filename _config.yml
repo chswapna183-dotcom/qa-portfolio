@@ -1,3 +1,5 @@
 title: "Swapna Chada"
 description: "QA Engineer (Manual • API • Automation)"
 theme: jekyll-theme-cayman
+github:
+  is_project_page: false
