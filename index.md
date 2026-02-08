@@ -1,7 +1,7 @@
 
 ---
-title: Swapna Chada
-description: QA Engineer (Manual • API • Automation)
+# Swapna Chada
+**QA Engineer (Manual • API • Automation)**
 ---
 
 Results-driven QA Engineer with 6+ years specializing in test automation, API validation, and CI/CD integration across web and mobile platforms, delivering scalable test frameworks and mentoring high-performing teams to ensure reliable, quality-driven releases
