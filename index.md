@@ -1,19 +1,10 @@
+
 ---
-layout: default
-title: "QA Portfolio"
+title: Swapna Chada
+description: QA Engineer (Manual • API • Automation)
 ---
 
-# YOUR NAME — QA Engineer (Manual • API • Automation)
-
-<!-- TODO: Replace "YOUR NAME" and the title line above with your preferred headline. -->
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE/)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-<!-- TODO: Update the links above (LinkedIn, GitHub, Email). -->
-
-Quality-focused QA Engineer with **X+ years** of experience validating **web apps and APIs**, building **clear test documentation**, and partnering with cross-functional teams to ship reliable releases.
+Results-driven QA Engineer with 6+ years specializing in test automation, API validation, and CI/CD integration across web and mobile platforms, delivering scalable test frameworks and mentoring high-performing teams to ensure reliable, quality-driven releases
 
 <!-- TODO: Replace "X+ years" and tailor the summary to your target roles/domain. -->
 
@@ -23,26 +14,29 @@ Quality-focused QA Engineer with **X+ years** of experience validating **web app
 
 <!-- TODO: Replace this section with your own story while keeping it concise. -->
 
-- ✅ Strong foundation in **manual testing**: functional, regression, smoke, exploratory, and UAT
-- 🧠 Comfortable translating requirements into **test scenarios**, **test cases**, and **risk-based coverage**
-- 🐞 Clear, developer-friendly **bug reports** with steps, evidence, severity/priority, and impact
-- 🔎 Confident with **API validation** (status codes, schemas, payloads, auth flows) and basic **SQL checks**
-- 🤝 Collaborative in **Agile/Scrum** teams: grooming, sprint planning, daily syncs, and release sign-offs
+- ✅ 6 years of QA experience across manual and automation testing in Agile/Scrum environments
+- 🚀 Automation expertise Java, Selenium WebDriver, Cucumber BDD, TestNG/JUnit frameworks with Page Object Model design
+- 🔧 API testing proficiency REST Assured, Postman for endpoint validation, schema verification, and auth flows
+- 🐞 Strong manual testing foundation functional, regression, smoke, exploratory, and UAT with detailed bug documentation
+- 🔄 CI/CD integration Jenkins pipelines, Git version control, and automated test execution
+- 💾 Data validation skills SQL queries for database testing and test data management
+- 🧠 BDD approach translating requirements into Gherkin scenarios and maintainable test automation suites
+- 🤝 Collaborative team player actively contributing in sprint planning, refinement sessions, daily standups, and release sign-offs
+- 📈 Skilled in Playwright, Python automation, and cloud-based testing (AWS)
+- 🎯 Focus building scalable, robust test frameworks that support continuous delivery and quality at speed
 
 ---
 
-## 🔍 Manual QA Highlights
+## 🔍 QA Highlights
 
 <!-- TODO: Adjust the numbers/claims to match your experience and outcomes. -->
 
-- Built end-to-end **test plans** and **RTMs** aligned to user stories and acceptance criteria
-- Designed reusable **checklists** for smoke/regression to improve release confidence
-- Executed **cross-browser** and **responsive UI** testing using real devices and emulators
-- Performed **exploratory testing** to uncover edge cases beyond scripted coverage
-- Logged high-quality defects in Jira with **screenshots/videos**, logs, and environment details
-- Collaborated with developers to **re-test fixes**, verify root cause, and prevent regressions
-- Supported **UAT** by preparing test data, guiding stakeholders, and documenting results
-- Tracked testing status and risks using concise **daily reports** and **test summary notes**
+- 📋 Architected comprehensive test strategies including end-to-end test plans, RTMs, and risk-based coverage aligned to acceptance criteria, while designing scalable automation frameworks using Selenium WebDriver, TestNG, and Page Object Model with data-driven approaches
+- 🌐 Executed cross-browser, cross-platform, and mobile testing (iOS/Android) using BrowserStack and Sauce Labs, ensuring consistent UI/UX validation across devices and responsive design verification
+- 🔧 Developed robust API automation suites with REST Assured, Postman, and SOAP UI for RESTful/GraphQL endpoints, complemented by MySQL and MongoDB database validation for end-to-end data integrity
+- 🚀 Integrated automated test suites into CI/CD pipelines via Jenkins, GitLab CI, and Bitbucket, enabling continuous testing, rapid feedback loops, and quality gates in deployment workflows
+- 🐞 Delivered high-quality defect documentation in Jira with reproducible steps, screenshots/videos, logs, environment details, and business impact analysis, while conducting exploratory testing to uncover edge cases and collaborating on root cause analysis
+- 👥 Provided QA leadership and mentoring across Agile (Scrum, Kanban) and Waterfall environments, facilitated UAT coordination, maintained testing transparency through metrics dashboards and status reports, and leveraged AI-assisted testing for intelligent optimization
 
 ---
 
@@ -50,51 +44,44 @@ Quality-focused QA Engineer with **X+ years** of experience validating **web app
 
 <!-- TODO: Replace the project placeholders with your real repositories and artifacts. -->
 
-### ✅ Project 1: WEB APP — Manual Test Suite & Regression Pack
+### ✅ Project 1: SeleniumFramework
 
 - **Description:** End-to-end manual QA coverage for a sample web application, including test documentation, execution evidence, and defect reporting examples.
-- **Tech Stack:** Jira (or equivalent), Chrome DevTools, TestRail/Zephyr (optional), Postman (for API checks), SQL (basic validation)
+
 - **Key Highlights:**
-  - Created a structured **test plan**, **test scenarios**, and prioritized **regression suite**
-  - Applied test design techniques (BVA, equivalence partitioning, negative testing)
-  - Produced sample **bug reports** with clear repro steps and expected vs. actual behavior
-  - Maintained a lightweight **test summary** for release readiness decisions
-- **GitHub:** https://github.com/YOUR_GITHUB_USERNAME/YOUR_WEBAPP_QA_REPO
+  - Core Framework: Selenium WebDriver, Java, and TestNG with Page Object Model architecture
+  - Reusable Components: Custom utilities for browser actions, explicit waits, and configuration management
+  - Data-Driven Testing: Externalized test data support for scalable and flexible test execution
+  - Logging & Reporting: Comprehensive test execution logs and detailed reporting mechanisms
+  - CI/CD Integration: Jenkins and GitHub Actions ready for automated pipeline execution
 
 <!-- TODO: Update the GitHub link and rename this project to match your work. -->
 
-### ✅ Project 2: REST API — Postman Regression Collection & Reporting
+### ✅ Project 2: Endpoint_UIAutomationCore
 
-- **Description:** API test collection covering critical endpoints with environments, variables, and repeatable regression runs.
-- **Tech Stack:** Postman, Newman (optional), Swagger/OpenAPI, JSON Schema (optional), GitHub Actions (optional)
+- **Description:** Endpoint_UIAutomationCore is a UI automation framework built to test web application endpoints with a structured, scalable, and reusable architecture. It focuses on validating UI flows, verifying endpoint responses through UI interactions, and ensuring application stability across different modules. The framework is designed for maintainability and supports modular test development, configuration management, and clean reporting.
+ 
 - **Key Highlights:**
-  - Validated response codes, payload structure, and business rules using assertions
-  - Organized requests into folders by feature with reusable pre-request scripts
-  - Used environment files for easy switching between dev/stage/prod-like setups
-  - Added sample run outputs (reports/logs) for shareable results
-- **GitHub:** https://github.com/YOUR_GITHUB_USERNAME/YOUR_API_TESTS_REPO
+  - Modular Framework Architecture: Built with Selenium WebDriver following clean code principles and scalable design patterns
+  - End-to-End Validation: Supports comprehensive endpoint validation through integrated UI workflows
+  - Centralized Configuration: Environment-specific settings and test data managed through unified configuration layer
+  - Reusable Utility Library: Custom components for browser interactions, intelligent waits, logging, and assertion handling
+  - Detailed Reporting: Structured test execution reports with pass/fail metrics and failure analysis
+  - CI/CD Ready: Designed for seamless extension and integration with Jenkins, GitHub Actions, and other pipeline tools
+- **GitHub:** https://github.com/chswapna183-dotcom/Endpoint_UIAutomationCore
 
-### ✅ Project 3: MOBILE APP — Smoke Checklist & Device Coverage Matrix
+### ✅ Project 3: playwright-end2end-framework
 
-- **Description:** Mobile-focused QA artifacts for release validation, emphasizing fast feedback and consistent smoke coverage.
-- **Tech Stack:** Android Studio Emulator / iOS Simulator, BrowserStack (optional), Jira, Charles Proxy (optional)
+- **Description:** This project is an end‑to‑end UI automation framework built using Playwright. It is designed to deliver fast, reliable, and maintainable automated tests for modern web applications. The framework supports cross‑browser testing, modular test design, reusable components, and clean reporting. It enables efficient validation of user flows, UI behavior, and application stability across different environments.
+
 - **Key Highlights:**
-  - Defined a concise **smoke checklist** for critical user journeys
-  - Built a **device/OS matrix** to plan coverage within time constraints
-  - Documented test data needs and quick troubleshooting steps for common failures
-  - Captured and organized evidence (screenshots/videos) for stakeholders
-- **GitHub:** https://github.com/YOUR_GITHUB_USERNAME/YOUR_MOBILE_QA_REPO
-
-### ✅ Project 4: UI AUTOMATION (Starter) — Smoke Suite for Critical Flows
-
-- **Description:** Lightweight UI smoke automation demonstrating stable selectors, clear assertions, and maintainable structure.
-- **Tech Stack:** Playwright/Cypress/Selenium (choose one), JavaScript/TypeScript/Java (choose one), GitHub Actions (optional)
-- **Key Highlights:**
-  - Automated high-value tests (login, core navigation, critical CRUD flow)
-  - Implemented reliable waits and meaningful assertions to reduce flaky runs
-  - Added reusable helpers/page objects to keep tests readable
-  - Included CI sample workflow to run tests on pull requests
-- **GitHub:** https://github.com/YOUR_GITHUB_USERNAME/YOUR_UI_AUTOMATION_REPO
+  - Modern Multi-Browser Support: Built with Playwright enabling cross-engine testing across Chromium, Firefox, and WebKit
+  - Scalable Architecture: Modular test structure with Page Object Model patterns ensuring maintainability and code reusability
+  - Comprehensive Reporting: Rich HTML reports with detailed execution logs, screenshots, and trace analysis for debugging
+  - High-Performance Execution: Parallel test execution capabilities delivering faster feedback and optimized test suite runtime
+  - Developer-Friendly Design: Intuitive framework structure with clean test logic for easy extensibility and collaboration
+  - CI/CD Ready: Seamlessly integrates with Jenkins, GitHub Actions, GitLab CI, and other modern deployment pipelines
+- **GitHub:** https://github.com/chswapna183-dotcom/playwright-end2end-framework
 
 ---
 
@@ -120,10 +107,10 @@ Quality-focused QA Engineer with **X+ years** of experience validating **web app
 <!-- TODO: Replace these with your real certifications/badges and update names as needed. -->
 
 ![ISTQB](https://img.shields.io/badge/ISTQB-CTFL-2E7D32?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-Student%20Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Scrum](https://img.shields.io/badge/Scrum-Fundamentals-009688?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-Foundations-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Automation](https://img.shields.io/badge/Test%20Automation-Basics-1565C0?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-Expert-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Scrum](https://img.shields.io/badge/Scrum-Expert-009688?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-Expert-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Automation](https://img.shields.io/badge/Test%20Automation-Expert-1565C0?style=for-the-badge)
 
 ---
 
@@ -131,9 +118,8 @@ Quality-focused QA Engineer with **X+ years** of experience validating **web app
 
 <!-- TODO: Replace placeholders with your real links and preferred contact methods. -->
 
-- **Resume:** https://drive.google.com/file/d/YOUR_RESUME_ID/view (or `./resume.pdf`)
-- **LinkedIn:** https://www.linkedin.com/in/YOUR_LINKEDIN_HANDLE/
-- **GitHub:** https://github.com/YOUR_GITHUB_USERNAME
-- **Email:** your.email@example.com
+- **LinkedIn:** https://www.linkedin.com/in/swapna-chada/
+- **GitHub:** https://github.com/chswapna183-dotcom/
+- **Email:** chswapna183@gmail.com
 
-If you're hiring for QA roles, I'm happy to share more details about my testing approach, documentation samples, and project outcomes.
+Happy to share a role-specific CV on request.
