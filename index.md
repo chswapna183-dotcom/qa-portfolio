@@ -80,7 +80,7 @@ Results-driven QA Engineer with 6+ years specializing in test automation, API va
   - High-Performance Execution: Parallel test execution capabilities delivering faster feedback and optimized test suite runtime
   - Developer-Friendly Design: Intuitive framework structure with clean test logic for easy extensibility and collaboration
   - CI/CD Ready: Seamlessly integrates with Jenkins, GitHub Actions, GitLab CI, and other modern deployment pipelines
-- **GitHub:** https://github.com/chswapna183-dotcom/playwright-end2end-framework
+- - **GitHub:** [View Repository](https://github.com/chswapna183-dotcom/playwright-end2end-framework)
 
 ---
 
@@ -122,3 +122,9 @@ Results-driven QA Engineer with 6+ years specializing in test automation, API va
 - **Email:** chswapna183@gmail.com
 
 Happy to share a role-specific CV on request.
+
+---
+## 📌 Copyright
+
+© 2026 Swapna Chada. All rights reserved.  
+This portfolio is my original work. Please do not copy or reuse without permission.
