@@ -34,16 +34,23 @@
 .site-footer {
   display: none !important;
 }
+
 /* Custom footer banner */
 .footer-banner {
   background-color: #2d2d2d;
   color: #ffffff;
   text-align: center;
-  padding: 2rem 1rem;
+  padding: 2rem 4rem;
   margin-top: 4rem;
-  margin-left: -2rem;
-  margin-right: -2rem;
-  margin-bottom: -2rem;
+  margin-left: calc(-50vw + 50%);
+  margin-right: calc(-50vw + 50%);
+  margin-bottom: 0;
+  width: 100vw;
+  position: relative;
+  left: 50%;
+  right: 50%;
+  margin-left: -50vw;
+  margin-right: -50vw;
 }
 
 .footer-banner p {

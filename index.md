@@ -54,7 +54,7 @@ Results-driven QA Engineer with 6+ years specializing in test automation, API va
   - Logging & Reporting: Comprehensive test execution logs and detailed reporting mechanisms
   - CI/CD Integration: Jenkins and GitHub Actions ready for automated pipeline execution
  
--**GitHub:** [View Repository](https://github.com/chswapna183-dotcom/SeleniumFramework)
+**GitHub:** [View Repository](https://github.com/chswapna183-dotcom/SeleniumFramework)
 
 
 ### ✅ Project 2: Endpoint_UIAutomationCore
