@@ -2,6 +2,10 @@
 title: Swapna Chada
 description: QA Engineer (Manual • API • Automation)
 ---
+<meta property="og:title" content="QA Portfolio | Swapna Chada">
+<meta property="og:description" content="6+ years QA experience with Selenium, Playwright, REST API automation. ISTQB & AWS Certified.">
+<meta property="og:image" content="https://chswapna183-dotcom.github.io/qa-portfolio/assets/images/preview.png">
+<meta property="og:url" content="https://chswapna183-dotcom.github.io/qa-portfolio/">
 
 
 
